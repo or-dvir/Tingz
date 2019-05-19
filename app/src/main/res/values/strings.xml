@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tingz</string>
+    <string name="error">some error occurred</string>
+    <string name="rating">Rating:</string>
+    <string name="year">Year:</string>
+    <string name="genres">Genres:</string>
+</resources>
